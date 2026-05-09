@@ -1,2 +1,2 @@
 all:
-	gcc $(CFLAGS) -o task main.c
+	gcc $(CFLAGS) -o csvreader main.c
